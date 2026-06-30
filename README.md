@@ -5,12 +5,18 @@ Estou construindo minha jornada na programação com foco em criar interfaces mo
 
 ## 🚀 Sobre Mim
 Tenho 17 anos e sou um apaixonado por tecnologia e desenvolvimento de software, com foco em **Desenvolvimento Front-End**. Aprendendo e praticando todos os dias.
-
 A paixão por jogos de RPG me trouxe para o mundo da programação, onde canalizo essa criatividade para resolver problemas lógicos e construir projetos reais através do código.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+### 📄 Projetos em destaque
+- [**Portfólio pessoal**](portfolio-one-gamma-65.vercel.app) — minha apresentação como desenvolvedor
+- [**Projeto de landing page**](celtics-five.vercel.app) — foco em layout e responsividade
+- **Projeto interativo** — foco em lógica e JavaScript
+
+---
+
+  ## 🛠️ Tecnologias e Ferramentas
 Aqui estão as tecnologias que utilizo e venho aprimorando no meu dia a dia:
 
 <p align="left">
@@ -20,13 +26,6 @@ Aqui estão as tecnologias que utilizo e venho aprimorando no meu dia a dia:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
-
----
-
-### 📄 Projetos em destaque
-- [**Portfólio pessoal**](portfolio-one-gamma-65.vercel.app) — minha apresentação como desenvolvedor
-- [**Projeto de landing page**](celtics-five.vercel.app) — foco em layout e responsividade
-- **Projeto interativo** — foco em lógica e JavaScript
 
 ### O que estou construindo agora
 - Base sólida em Front-End
